@@ -29,18 +29,23 @@ export const categories = [
         id: 1,
         img: process.env.PUBLIC_URL + "/assets/cat1.jpg",
         title: "screw driver",
+        cat: "women",
     },
 
     {
         id: 2,
         img: process.env.PUBLIC_URL + "/assets/cat2.jpg",
         title: "Hammer",
+        cat: "coat",
+
     },
 
     {
         id: 3,
         img: process.env.PUBLIC_URL + "/assets/cat3.jpg",
         title: "Spinner",
+        cat: "jeans",
+
     }
 ];
 
